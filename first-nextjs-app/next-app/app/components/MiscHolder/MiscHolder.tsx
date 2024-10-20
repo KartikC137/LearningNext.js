@@ -3,7 +3,7 @@ import dynamic from "next/dynamic";
 
 const NoSSR = dynamic(() => import("../stats/Stats"), { ssr: false });
 
-const ProductCard = () => {
+const MiscHolder = () => {
   return (
     <div
       className="p-5 my-5 bg-purple-800 border-amber-400 border-4 rounded-[22px]
@@ -13,4 +13,4 @@ const ProductCard = () => {
     </div>
   );
 };
-export default ProductCard;
+export default MiscHolder;

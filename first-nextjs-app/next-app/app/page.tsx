@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import ProductCard from "./components/ProductCart/ProductCard";
+import MiscHolder from "@/app/components/MiscHolder/MiscHolder";
 import { useState } from "react";
 
 export default function Home() {
@@ -52,7 +52,7 @@ export default function Home() {
           >
             <Link href="./users">Go to users page</Link>
           </button>
-          <ProductCard />
+          <MiscHolder />
         </>
       )}
     </main>
