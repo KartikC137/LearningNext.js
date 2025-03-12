@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) Example Project which I built to learn various next.js features.
+### This is a [Next.js](https://nextjs.org/) Example Project which I built to learn various next.js features, mainly to test out its basic features.
+![next](https://github.com/user-attachments/assets/d240dca2-62db-4d19-906d-efddc69aadf1)
+
+## Features:
+### 1. Show/Hide UI button: 
+  - to hide all the other componets to direct focus on certain thing, Background wallpaper in this case.
+### 2. Imported Random User Data from external website.
 
 ## Getting Started
 
